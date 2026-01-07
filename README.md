@@ -35,13 +35,7 @@ Or after building:
 
 ## Usage
 
-```bash
-# Initialize ctrllr
-ctrllr init
-
-# Search command history
-ctrllr search [query]
-```
+TBD
 
 ## Future Goals
 
@@ -51,6 +45,3 @@ ctrllr search [query]
 - Command tagging and categorization
 - Advanced filtering and search capabilities
 
-## License
-
-MIT - See LICENSE file for details
